@@ -10,4 +10,4 @@ Email: andreacac2023@gmail.com
 
 Fun fact: I have two miniature dachshunds, Vienna & Ozzie.
 
-[View My Resume](./Andrea_Caceres_Resume.pdf)
+[View My Resume](./Andrea_Caceres_Resume_2026.pdf)
