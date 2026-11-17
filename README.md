@@ -4,7 +4,7 @@ M.S. Data Science Candidate at CU Boulder | B.S. Statistics
 
 Interested in data science, statistical modeling, machine learning, and analytics.
 
-Currently analyzing snowfall patterns near major destination ski resorts across the Western U.S. to explore whether historical weather and snowfall data can be used to predict future conditions.
+Currently analyzing whether Steam games popularity can be predicted using XGBoost and Logistic Regression.
 
 Email: andreacac2023@gmail.com
 
